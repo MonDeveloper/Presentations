@@ -1,2 +1,5 @@
 #theme : moon
+theme-override : assets/css/PITCHME.css
 logo : assets/CRIF Global Technologies 512.png
+footnote : "© 2017 Crif Global Technologies - Corporate Architect Consultants"
+slide-number: true
