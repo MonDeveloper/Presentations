@@ -1,6 +1,8 @@
-/* .reveal {
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+
+ .reveal {
 	font-family: 'Special Elite', cursive;
-} */
+} 
 
 .reveal section img {
   border: 0;
