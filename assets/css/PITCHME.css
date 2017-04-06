@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Special+Elite');
 
+body {
+    background: -webkit-radial-gradient(center,circle cover,#21b7dc 0,#e4ccad 100%);
+}
+
 .reveal h3 {
   font-family: 'Special Elite';
 } 
