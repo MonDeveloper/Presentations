@@ -1,8 +1,8 @@
 ---
 
-### R
-### OpenCPU Spark Executor
-### (ROSE)
+### Event Sourcing
+### a fight among Time-Series and Raw-Snapshots
+### (mM)
 
 <span style="color:gray">An Apache Spark Package</span>
 
