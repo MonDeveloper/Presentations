@@ -1,25 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Special+Elite');
 
 div.backgrounds {
-  background: -webkit-radial-gradient(center,circle cover,#21b7dc 0,#e4ccad 100%);
-  position: relative;
+  background: -webkit-radial-gradient(center,circle cover,#DDDDDD 0,#e4ccad 100%);
   background-image: url("assets/img/bottom_banner_bg.jpg");
 }
-
-/*
-div.backgrounds::after { 
-  width: 100%;
-  height: 10%;
-  position: absolute;
-  bottom: 10px;
-  display: block;
-  margin: 0 auto; 
-  da qui in poi puoi zancare via tutto 
-  text-align: center;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 1.5em;
-  line-height: 5em;
-}*/
 
 .reveal h3 {
   font-family: 'Special Elite';
