@@ -2,7 +2,8 @@
 
 div.backgrounds {
   background: -webkit-radial-gradient(center,circle cover,#DDDDDD 0,#e4ccad 100%);
-  background-image: url("assets/img/bottom_banner_bg.jpg");
+  background-image: url("./../img/bottom_banner_bg.jpg");
+  background-image: url("./../img/bottom_banner_bg2.jpg");
 }
 
 .reveal h3 {
