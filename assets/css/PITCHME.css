@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Special+Elite');
 
+
 div.backgrounds {
   background: -webkit-radial-gradient(center,circle cover,#DDDDDD 0,#e4ccad 100%);
-  background-image: url("./../img/bottom_banner_bg.jpg");
-  background-image: url("./../img/bottom_banner_bg2.jpg");
+  /*background-image: url("./../img/bottom_banner_bg.jpg");
+  background-image: url("./../img/bottom_banner_bg2.jpg");*/
 }
 
 .reveal h3 {
@@ -15,3 +16,17 @@ div.backgrounds {
   box-shadow: none;
 }
 
+
+/*
+background: -webkit-radial-gradient(center,circle cover,#DDDDDD 0,#e4ccad 100%);
+    background-image: url(https://raw.githubusercontent.com/MonDeveloper/Presentations/development/assets/img/bottom_banner_bg.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: 100% 10%;
+    / background-repeat: no-repeat; /
+    / background-position: bottom; /
+}
+*/
