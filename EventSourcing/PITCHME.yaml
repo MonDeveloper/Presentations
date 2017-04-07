@@ -3,3 +3,4 @@ theme-override : assets/css/PITCHME.css
 logo : assets/img/CRIF Global Technologies 512.png
 footnote : "© 2017 Crif Global Technologies - Corporate Architect Consultants"
 slide-number: true
+background : assets/img/bottom_banner_bg2.jpg
