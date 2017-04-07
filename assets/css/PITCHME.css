@@ -4,7 +4,7 @@ body {
     background: -webkit-radial-gradient(center,circle cover,#21b7dc 0,#e4ccad 100%);
 }
 
-body:after { 
+div.slides::after { 
   content: "BANNER MONDUCCIBUS"; /* devi lasciare: content: "" */
   background-image: url("http://sweetclipart.com/multisite/sweetclipart/files/imagecache/middle/banner_white.png");
   width: 550px;
