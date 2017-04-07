@@ -4,6 +4,20 @@ body {
     background: -webkit-radial-gradient(center,circle cover,#21b7dc 0,#e4ccad 100%);
 }
 
+body::after { 
+  content: "BANNER MONDUCCIBUS"; /* devi lasciare: content: "" */
+  background-image: url("http://sweetclipart.com/multisite/sweetclipart/files/imagecache/middle/banner_white.png");
+  width: 550px;
+  height: 189px;
+  display: block;
+  margin: 0 auto;
+  /* da qui in poi puoi zancare via tutto */
+  text-align: center;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 1.5em;
+  line-height: 5em;
+}
+
 .reveal h3 {
   font-family: 'Special Elite';
 } 

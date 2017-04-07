@@ -1,11 +1,11 @@
-### LEVEL 1-A
+### LEVEL 2-A
 
   - Offers the full scientific computing power of the R programming language
   - Within Spark batch and streaming apps on the JVM
 
 ---
 
-### LEVEL 1-B
+### LEVEL 2-B
 
 <ol>
 <li class="fragment" data-fragment-index="1">New `analyze` operation on RDD[<span style="color:gray">OCPUTask</span>]</li>
